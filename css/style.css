@@ -55,7 +55,7 @@ body{
     color:#ffd800;
 }
 .aboutBlock{
-    width: 100%;
+    width: 100vw;
     padding: 30px 0px 40px 0px;
     background-image: url(../images/img_about.jpg);
     background-position: center;
